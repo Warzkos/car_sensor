@@ -2,7 +2,13 @@
 
 Parking distance sensor based on STM32F103C8T6 (bluepill) and ultrasonic ranging module HC-SR04.
 
-Parts used for the project:
+## Features
+* 9 programmable threshold distances for activating LEDs and buzzer beepingfrequency
+* buzzer increases frequency of beeping the closer the object is
+* buzzer programmable turn off time (default 7 seconds) after reaching 2nd closest threshold distance
+* LEDs programmable tunr off time (default 15 seconds) after reaching closest threshold distance
+
+## Parts used for the project:
 - bluepill
 - ultrasonic ranging module HC-SR04
 - perf boards (5cm x 7cm and 2cm x 8cm)
@@ -18,13 +24,7 @@ Parts used for the project:
 ## Circuit diagram
 ![circuit_diagram2](https://user-images.githubusercontent.com/50926917/195899854-2f93d8c8-aa93-4b6f-ac7e-031f0b7524ff.png)
 
-## Features
-* 9 programmable threshold distances for activating LEDs and buzzer beepingfrequency
-* buzzer increases frequency of beeping the closer the object is
-* buzzer programmable turn off time (default 7 seconds) after reaching 2nd closest threshold distance
-* LEDs programmable tunr off time (default 15 seconds) after reaching closest threshold distance
-
-## Project result
+## Result
 
 https://user-images.githubusercontent.com/50926917/195894758-f9a88620-6a1d-4caf-b80c-9c7bcadc3a5a.mp4
 
