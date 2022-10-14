@@ -31,4 +31,12 @@ https://user-images.githubusercontent.com/50926917/195894758-f9a88620-6a1d-4caf-
 
 ![IMG_7661](https://user-images.githubusercontent.com/50926917/195894881-3d54f708-f250-4389-818b-b17fd596cbd0.JPG)
 
+## Some phases of the project
+
+![IMG_7488](https://user-images.githubusercontent.com/50926917/195903284-2c581efa-e2d6-47ab-8646-a5a8f409c5f8.jpg)
+![IMG_7490](https://user-images.githubusercontent.com/50926917/195903293-c4baf59a-b578-49e4-9cb2-843dcf789078.jpg)
+![IMG_7529](https://user-images.githubusercontent.com/50926917/195903294-dcf2f4ef-7506-4e6b-8bec-689187d31590.jpg)
+![IMG_7538](https://user-images.githubusercontent.com/50926917/195903296-46073646-9d16-41d1-b7c2-0980b71bc7e8.jpg)
+![IMG_7564](https://user-images.githubusercontent.com/50926917/195903299-35b5b8d2-b9ba-4245-900d-ad9afd646328.JPG)
+
 
