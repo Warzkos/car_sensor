@@ -7,6 +7,7 @@ Parking distance sensor based on STM32F103C8T6 (bluepill) and ultrasonic ranging
 * buzzer increases frequency of beeping the closer the object is
 * buzzer programmable turn off time (default 7 seconds) after reaching 2nd closest threshold distance
 * LEDs programmable tunr off time (default 15 seconds) after reaching closest threshold distance
+* serial communication from uC (measured distance)
 
 ## Parts used for the project:
 - bluepill
