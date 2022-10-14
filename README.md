@@ -25,7 +25,7 @@ Parking distance sensor based on STM32F103C8T6 (bluepill) and ultrasonic ranging
 ## Circuit diagram
 ![circuit_diagram2](https://user-images.githubusercontent.com/50926917/195899854-2f93d8c8-aa93-4b6f-ac7e-031f0b7524ff.png)
 
-Most left bottom pin is pin number 1 according to [this](https://microcontrollerslab.com/wp-content/uploads/2021/01/STM32F103C8T6-Blue-Pill-pinout-diagram.jpg) pinout scheme.
+Most left bottom uC pin is pin number 1 according to [this](https://microcontrollerslab.com/wp-content/uploads/2021/01/STM32F103C8T6-Blue-Pill-pinout-diagram.jpg) pinout scheme.
 ## Result
 
 https://user-images.githubusercontent.com/50926917/195894758-f9a88620-6a1d-4caf-b80c-9c7bcadc3a5a.mp4
